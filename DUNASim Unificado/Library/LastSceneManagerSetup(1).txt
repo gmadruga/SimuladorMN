@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/barcos_duna_2019.unity
+  isLoaded: 1
+  isActive: 1
