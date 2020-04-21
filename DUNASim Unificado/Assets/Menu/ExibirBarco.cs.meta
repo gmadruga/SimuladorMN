@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7e809e5991e9104085cb93d7bf38f3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barco1: {fileID: 6943999641330300863, guid: b8148f07dc0702c4c901f531846dea45,
+      type: 3}
+  - barco2: {instanceID: 0}
+  - moana: {instanceID: 0}
+  - legado: {instanceID: 0}
+  - selecao: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

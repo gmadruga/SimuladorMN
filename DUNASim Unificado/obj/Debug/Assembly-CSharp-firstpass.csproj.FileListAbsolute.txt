@@ -1,0 +1,96 @@
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gabri_000\Desktop\Nautica_projeto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\gabri_000\Desktop\Nautica_projeto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\gabri_000\Desktop\Nautica_projeto\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\nunit.framework.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEditor.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEditor.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\nunit.framework.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\operador\Desktop\DUNASim MOANA NOVO\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\nunit.framework.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEditor.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEditor.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\nunit.framework.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\operador\Desktop\DUNASim Unificado\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\operador\Desktop\DUNASim Unificado\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\operador\Desktop\DUNASim Unificado\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\operador\Desktop\DUNASim Unificado\obj\Debug\Assembly-CSharp-firstpass.pdb

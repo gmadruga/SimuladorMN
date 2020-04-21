@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautica_projeto", "Assembly-CSharp.csproj", "{E1238A24-D89F-B691-8EA5-A6BE16928BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautica_projeto", "Assembly-CSharp-firstpass.csproj", "{D5BF74AE-0417-DA86-8855-93817ACB7D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautica_projeto", "Assembly-CSharp-Editor-firstpass.csproj", "{E1F02F42-8D45-FD6E-A88E-3FAF800605E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1238A24-D89F-B691-8EA5-A6BE16928BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1238A24-D89F-B691-8EA5-A6BE16928BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1238A24-D89F-B691-8EA5-A6BE16928BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1238A24-D89F-B691-8EA5-A6BE16928BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BF74AE-0417-DA86-8855-93817ACB7D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BF74AE-0417-DA86-8855-93817ACB7D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BF74AE-0417-DA86-8855-93817ACB7D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BF74AE-0417-DA86-8855-93817ACB7D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F02F42-8D45-FD6E-A88E-3FAF800605E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F02F42-8D45-FD6E-A88E-3FAF800605E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F02F42-8D45-FD6E-A88E-3FAF800605E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F02F42-8D45-FD6E-A88E-3FAF800605E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
